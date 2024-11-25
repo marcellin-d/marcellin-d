@@ -53,7 +53,8 @@ Explore these projects in detail by browsing my repositories!
   Regression models, classification techniques, clustering, and ensemble learning.  
 
 - **Data Engineering**:  
-  Building data pipelines for preprocessing, feature engineering, and deployment.  
+  Building data pipelines for preprocessing, feature engineering, and deployment.
+  ETL PIPELINE, DBT, Apache Airflow, Data WH
 
 - **Deployment & Cloud**:  
   Experience with AWS, Azure, Zyte (Scrapy Cloud), Docker, and Git for managing, deploying, and scaling projects.  
