@@ -1,4 +1,4 @@
-# 🌟 **Junior Data Scientist | Machine Learning Enthusiast | Data-Driven Problem Solver**
+### 🌟 **Junior Data Scientist | Machine Learning Enthusiast | Data-Driven Problem Solver**
 
 👋 **Welcome to my GitHub!**  
 I’m **Marcellin D.**, a passionate **Junior Data Scientist** with a strong foundation in analytics, machine learning, and data engineering. I thrive on solving complex problems and uncovering insights from data that drive impactful decisions. My journey into data science is fueled by curiosity and a desire to create meaningful solutions for real-world challenges.
