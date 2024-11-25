@@ -38,13 +38,13 @@ Explore these projects in detail by browsing my repositories!
 
 ### 💻 **Technical Skills**  
 - **Programming Languages**:  
-  Python (Pandas, NumPy, Scikit-learn, polars), SQL, Apache Spark(Spark SQL, Pyspark)
+  Python (Pandas, NumPy, Scikit-learn, Polars), SQL, Apache Spark(Spark SQL, Pyspark)
   
 - **Web  Development**:
   HTML, CSS, Javascript
   
 - **Data Tools**:  
-  Jupyter Notebooks, Power BI, Matplotlib, Seaborn, Plotly, Tableau, Hadoop
+  Jupyter Notebooks, Power BI, Looker Studio, Matplotlib, Seaborn, Plotly, Tableau, Hadoop
 
 - **Data Visualization**:  
   Expertise in crafting dynamic and interactive dashboards tailored to different audiences using tools like Power BI, Tableau, Plotly, and libraries like Matplotlib and Seaborn. Focused on combining design, storytelling, and data clarity to create impactful visual narratives.
@@ -68,7 +68,7 @@ I aspire to become a leading expert in **data science and big data**, contributi
 ### 📫 **Let’s Connect**  
 Whether you’re interested in collaborating, discussing data-driven ideas, or sharing insights, I’d love to connect!  
 - **LinkedIn**: [Visit my profile](https://www.linkedin.com/in/marcellindjambo/)  
-- **Email**: Feel free to drop me a message at **[your-email@example.com](mailto:djambomarcellin@gmail.com)**  
+- **Email**: Feel free to drop me a message at **[djambomarcellin@gmail.com](mailto:djambomarcellin@gmail.com)**  
 
 ---
 
